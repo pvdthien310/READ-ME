@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thien</h1>
-<h3 align="center">I am</h3>
+<h3 align="center">I am Java Software Engineer </h3>
 
 - 🔭 I’m currently working on **Financial And Trading System**
 
